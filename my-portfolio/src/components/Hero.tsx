@@ -24,7 +24,7 @@ export default function Hero() {
         </div>
        <div className="flex justify-center md:justify-end">
   <img
-    src="/src/assets/img/herobg.png"
+    src="/img/herobg.png"
     alt="img"
     className="w-full h-auto max-h-[80vh] object-contain"
   />

@@ -5,14 +5,14 @@ type Skill = {
 };
 
 const skills: Skill[] = [
-  { name: "HTML", icon: "/src/assets/img/html.svg" },
-  { name: "CSS", icon: "/src/assets/img/css.svg" },
-  { name: "TailwindCSS", icon: "/src/assets/img/tailwind.svg" },
-  { name: "React", icon: "/src/assets/img/react.svg" },
-  { name: "Vue", icon: "/src/assets/img/vue.svg" },
-  { name: "JavaScript", icon: "/src/assets/img/js.svg" },
-  { name: "TypeScript", icon: "/src/assets/img/ts.svg" },
-  { name: "Git", icon: "/src/assets/img/git.svg" },
+  { name: "HTML", icon: "/img/html.svg" },
+  { name: "CSS", icon: "/img/css.svg" },
+  { name: "TailwindCSS", icon: "/img/tailwind.svg" },
+  { name: "React", icon: "/img/react.svg" },
+  { name: "Vue", icon: "/img/vue.svg" },
+  { name: "JavaScript", icon: "/img/js.svg" },
+  { name: "TypeScript", icon: "/img/ts.svg" },
+  { name: "Git", icon: "/img/git.svg" },
 ];
 
 export default function Skills() {

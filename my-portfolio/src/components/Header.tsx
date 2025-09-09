@@ -23,7 +23,7 @@ export default function Header() {
             href="/"
             className="text-white font-heading font-semibold  text-md"
           >
-            <img className="" src="src/assets/img/logo.png"/>
+            <img className="" src="/img/logo.png"/>
           </a>
 </div>
           <div className="w-full hidden md:flex  justify-center">

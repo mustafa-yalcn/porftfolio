@@ -12,19 +12,19 @@ const projects: Project[] = [
     title: "E-Ticaret Platformu (HTML+CSS+Tailwind)",
     desc: "Html + Css + Tailwind ile geliştirilmiş modern e-ticaret sitesi.",
     images: [
-      "/src/assets/img/projects/prj2_1.png",
-      "/src/assets/img/projects/prj2_2.png",
-      "/src/assets/img/projects/prj2_3.png",
-      "/src/assets/img/projects/prj1_1.png",
-      "/src/assets/img/projects/prj1_2.png",
-      "/src/assets/img/projects/prj1_3.png",
-      "/src/assets/img/projects/prj1_4.png",
-       "/src/assets/img/projects/prj4_1.png",
-      "/src/assets/img/projects/prj4_2.png",
-       "/src/assets/img/projects/prj5_1.png",
-      "/src/assets/img/projects/prj6_1.png",
-       "/src/assets/img/projects/prj7_1.png",
-      "/src/assets/img/projects/prj9_1.png",
+      "/img/projects/prj2_1.png",
+      "/img/projects/prj2_2.png",
+      "/img/projects/prj2_3.png",
+      "/img/projects/prj1_1.png",
+      "/img/projects/prj1_2.png",
+      "/img/projects/prj1_3.png",
+      "/img/projects/prj1_4.png",
+       "/img/projects/prj4_1.png",
+      "/img/projects/prj4_2.png",
+       "/img/projects/prj5_1.png",
+      "/img/projects/prj6_1.png",
+       "/img/projects/prj7_1.png",
+      "/img/projects/prj9_1.png",
     ],
   },
  
@@ -32,7 +32,7 @@ const projects: Project[] = [
     title: "Kişisel Dashboard Proje",
     desc: "Vue.js + Tailwind ile geliştirilmiş admin sayfası .",
     images: [
-      "/src/assets/img/projects/prj10.png",
+      "/img/projects/prj10.png",
     
     ],
   },
@@ -40,28 +40,28 @@ const projects: Project[] = [
     title: "Kişisel Landing Page Proje",
     desc: "Html + Css ile geliştirilmiş otel rezarvasyon sitesi",
     images: [
-      "/src/assets/img/projects/prj11.png",
+      "/img/projects/prj11.png",
     ],
   },
   {
     title: "Kişisel E-Ticaret Sitesi",
     desc: "React + Tailwind ile geliştirilmiş e-ticaret sitesi.",
     images: [
-      "/src/assets/img/projects/prj12.png",
+      "/img/projects/prj12.png",
     ],
   },
   {
     title: "Kişisel Kitaplık Sitesi",
     desc: "React + Tailwind ile geliştirilmiş kişisel kütüphane sitesi.",
     images: [
-     "/src/assets/img/projects/prj14.png",
+     "/img/projects/prj14.png",
     ],
   },
   {
     title: "Kişisel Hava Durumu Sitesi",
     desc: "React + Tailwind ile geliştirilmiş hava durumu sitesi.",
     images: [
-      "/src/assets/img/projects/prj15.png",
+      "/img/projects/prj15.png",
     ],
   },
 
