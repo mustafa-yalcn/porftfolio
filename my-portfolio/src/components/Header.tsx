@@ -3,7 +3,7 @@ import { Menu, X } from "lucide-react";
 
 const nav = [
   { href: "#about", label: "Hakkımda" },
-  { href: "#skils", label: "Yetenekler" },
+  { href: "#skills", label: "Yetenekler" },
   { href: "#services", label: "Hizmetler" },
   { href: "#experience", label: "Deneyim" },
   { href: "#projects", label: "Projeler" },
