@@ -44,7 +44,7 @@ export default function Header() {
          
           <div className="w-full hidden md:flex justify-end items-center gap-3">
             <a
-              href="https://drive.google.com/file/d/1Yu1vcw2FdZP0iSMi5eiGthpsYkTeFrXs/view?usp=sharing" target="_blank"
+              href="https://drive.google.com/file/d/1C4p8I06qeRsFZ_2vdAaHY2MnHI6Fwtl4/view?usp=sharing" target="_blank"
               className="px-3 py-2 rounded-lg bg-brand text-white hover:bg-brandDark transition"
             >
               CV
