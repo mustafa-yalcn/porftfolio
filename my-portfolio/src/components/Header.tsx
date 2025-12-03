@@ -44,7 +44,7 @@ export default function Header() {
          
           <div className="w-full hidden md:flex justify-end items-center gap-3">
             <a
-              href="https://drive.google.com/file/d/1xxNeR5YRAPpWlWb0bajDT3d1xo4on1Al/view?usp=sharing" target="_blank"
+              href="https://drive.google.com/file/d/1uySfRvqbWBHgaKmEltetnudjnTYzgwb6/view?usp=sharing" target="_blank"
               className="px-3 py-2 rounded-lg bg-brand text-white hover:bg-brandDark transition"
             >
               CV
@@ -78,7 +78,7 @@ export default function Header() {
           ))}
           <li>
             <a
-              href="https://drive.google.com/file/d/1xxNeR5YRAPpWlWb0bajDT3d1xo4on1Al/view?usp=sharing"
+              href="https://drive.google.com/file/d/1uySfRvqbWBHgaKmEltetnudjnTYzgwb6/view?usp=sharing"
               className="inline-block px-3.5 py-2 rounded-lg bg-brand text-white hover:bg-brandDark transition"
               onClick={() => setOpen(false)}
             >
