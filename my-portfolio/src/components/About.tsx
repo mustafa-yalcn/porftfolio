@@ -17,7 +17,7 @@ export default function About() {
        <span className="font-semibold text-amber-700">HTML,</span><span className="font-semibold text-blue-600"> Tailwind CSS</span> ve <span className="font-semibold text-amber-300">JavaScript</span> ile birçok B2C ve B2B e-ticaret projesinde kullanıcı dostu arayüzler geliştirdim.
     </li>
     <li>
-      Kişisel projelerimde  <span className="font-semibold text-blue-600">React.js</span> , <span className="font-semibold text-emerald-700">Vue.js</span> ve <span className="font-semibold text-amber-500">TypeScript</span> kullanarak modern web teknolojilerini öğrenmeye ve uygulamaya devam ediyorum.
+      Kişisel projelerimde  <span className="font-semibold text-blue-600">React.js</span> , <span className="font-semibold text-emerald-700">Vue.js</span> , <span className="font-semibold text-emerald-300">Next.js</span> ve <span className="font-semibold text-amber-500">TypeScript</span> kullanarak modern web teknolojilerini öğrenmeye ve uygulamaya devam ediyorum.
     </li>
   <li>
   React tarafında kişisel projelerimle <span className="font-semibold text-red-700">Redux Toolkit, Context API</span> gibi state yönetimi yöntemlerini ve <span className="font-semibold  text-red-700">React Router</span> ile sayfa yönlendirmelerini deneyimledim.
