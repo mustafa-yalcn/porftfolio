@@ -13,6 +13,7 @@ const skills: Skill[] = [
   { name: "JavaScript", icon: "/img/js.svg" },
   { name: "TypeScript", icon: "/img/ts.svg" },
   { name: "Git", icon: "/img/git.svg" },
+  { name: "Next", icon: "/img/nextjs-icon.svg" }
 ];
 
 export default function Skills() {
